@@ -10,4 +10,8 @@ $(document).ready(function() {
   $("button#toNight").click(function(){
     $("body").toggleClass("night-mode");
   });
+  $(".intro").click(function(){
+    $("#idIntro").toggleClass("introClass");
+  });
+
 });
