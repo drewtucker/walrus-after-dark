@@ -5,3 +5,17 @@
 #fact1-showing {
   display:none;
 }
+.btn-default{
+  border: 2px solid white;
+  background: gray;
+}
+
+.night-mode {
+  background-color: gray;
+  color: white;
+}
+
+.light-mode {
+  background-color: white;
+  color: black;
+}

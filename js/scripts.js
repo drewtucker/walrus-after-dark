@@ -7,4 +7,7 @@ $(document).ready(function() {
     $("#fact1-showing").fadeToggle();
     $("#fact1-hidden").fadeToggle();
   });
+  $("button#toNight").click(function(){
+    $("body").toggleClass("night-mode");
+  });
 });
