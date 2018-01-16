@@ -1,10 +1,15 @@
-#walrus-showing {
+#walrus{
   display: none;
 }
 
-#fact1-showing {
+#fact1{
   display:none;
 }
+
+#fact2{
+  display: none;
+}
+
 .btn-default{
   border: 2px solid black;
   background: gray;
